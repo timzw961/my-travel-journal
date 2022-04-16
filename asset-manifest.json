@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-travel-journal/static/css/main.77092ca5.css",
+    "main.css": "/my-travel-journal/static/css/main.e7219f29.css",
     "main.js": "/my-travel-journal/static/js/main.acf18b0b.js",
     "static/media/Nara-park.jpg": "/my-travel-journal/static/media/Nara-park.f314b1c38bdcd5883836.jpg",
     "static/media/abeno-harukas.jpg": "/my-travel-journal/static/media/abeno-harukas.4c6d516d0237dc456583.jpg",
@@ -12,11 +12,11 @@
     "static/media/mt-fuji.jpg": "/my-travel-journal/static/media/mt-fuji.3615cba0da55376b64f7.jpg",
     "static/media/universal-studios.jpeg": "/my-travel-journal/static/media/universal-studios.5c0a0b40dc7a0d79ded0.jpeg",
     "index.html": "/my-travel-journal/index.html",
-    "main.77092ca5.css.map": "/my-travel-journal/static/css/main.77092ca5.css.map",
+    "main.e7219f29.css.map": "/my-travel-journal/static/css/main.e7219f29.css.map",
     "main.acf18b0b.js.map": "/my-travel-journal/static/js/main.acf18b0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.77092ca5.css",
+    "static/css/main.e7219f29.css",
     "static/js/main.acf18b0b.js"
   ]
 }
