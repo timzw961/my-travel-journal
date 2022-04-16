@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/my-travel-journal/static/css/main.073c9b0a.css",
-    "main.js": "/my-travel-journal/static/js/main.2c6cc2b7.js",
-    "static/js/787.39019643.chunk.js": "/my-travel-journal/static/js/787.39019643.chunk.js",
-    "static/media/logo.svg": "/my-travel-journal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/my-travel-journal/static/css/main.4b227797.css",
+    "main.js": "/my-travel-journal/static/js/main.acf18b0b.js",
+    "static/media/Nara-park.jpg": "/my-travel-journal/static/media/Nara-park.f314b1c38bdcd5883836.jpg",
+    "static/media/abeno-harukas.jpg": "/my-travel-journal/static/media/abeno-harukas.4c6d516d0237dc456583.jpg",
+    "static/media/silver-temple.jpg": "/my-travel-journal/static/media/silver-temple.88b35eaa7a568dd07577.jpg",
+    "static/media/umeda-sky-building.jpg": "/my-travel-journal/static/media/umeda-sky-building.34ea119e63bfc4711ee6.jpg",
+    "static/media/shibuya-crossing.jpg": "/my-travel-journal/static/media/shibuya-crossing.64ddea37c0b8765c1892.jpg",
+    "static/media/osaka-castle.jpg": "/my-travel-journal/static/media/osaka-castle.8bfbcbf0e797e45166d6.jpg",
+    "static/media/golden-temple.jpg": "/my-travel-journal/static/media/golden-temple.9b7691ce032444aacbd9.jpg",
+    "static/media/mt-fuji.jpg": "/my-travel-journal/static/media/mt-fuji.3615cba0da55376b64f7.jpg",
+    "static/media/universal-studios.jpeg": "/my-travel-journal/static/media/universal-studios.5c0a0b40dc7a0d79ded0.jpeg",
     "index.html": "/my-travel-journal/index.html",
-    "main.073c9b0a.css.map": "/my-travel-journal/static/css/main.073c9b0a.css.map",
-    "main.2c6cc2b7.js.map": "/my-travel-journal/static/js/main.2c6cc2b7.js.map",
-    "787.39019643.chunk.js.map": "/my-travel-journal/static/js/787.39019643.chunk.js.map"
+    "main.4b227797.css.map": "/my-travel-journal/static/css/main.4b227797.css.map",
+    "main.acf18b0b.js.map": "/my-travel-journal/static/js/main.acf18b0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2c6cc2b7.js"
+    "static/css/main.4b227797.css",
+    "static/js/main.acf18b0b.js"
   ]
 }
