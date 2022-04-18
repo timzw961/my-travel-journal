@@ -1,6 +1,6 @@
 # My travel journal
 
-This the second solo project from the Scrimba React course. I used this project to test if I understand props and passing props as an object to a component. I think it turned out pretty well, and I was able to realise that using {requires ( ) } pretty much fixes the issues that the lecturer thought might happen with people doing the project on their local environment. The fix that he suggested was to throw everything into the public folder, but using the require method makes it work from the images folder. 
+This is the second solo project from the Scrimba React course. I used this project to test if I understand props and passing props as an object to a component. I think it turned out pretty well, and I was able to realise that using {requires ( ) } pretty much fixes the issues that the lecturer thought might happen with people doing the project on their local environment. The fix that he suggested was to throw everything into the public folder, but using the require method makes it work from the images folder. 
 
 The process I've been following is now:
 1) Complete the section from the react course
