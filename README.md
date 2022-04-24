@@ -11,3 +11,5 @@ The process I've been following is now:
 6) Create-react-app in local environment for the section Solo Project
 7) Copy over the work from Scrimba and change parts as necessary
 8) Create another react app for GitHub pages and deploy
+
+Random tidbit but I think for all of these GitHub pages I am making, I would probably have them incorporated or at least linked to in my actual portfolio website. I think I should also mention this somewhere during my journey in React that I hope to eventually be able to make and deploy my own portfolio website that showcases all the work I have done through my learnings. 
