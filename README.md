@@ -12,4 +12,4 @@ The process I've been following is now:
 7) Copy over the work from Scrimba and change parts as necessary
 8) Create another react app for GitHub pages and deploy
 
-Random tidbit but I think for all of these GitHub pages I am making, I would probably have them incorporated or at least linked to in my actual portfolio website. I think I should also mention this somewhere during my journey in React that I hope to eventually be able to make and deploy my own portfolio website that showcases all the work I have done through my learnings. 
+Random tidbit but I think for all of these GitHub pages I am making, I would probably have them incorporated or at least linked to in my actual portfolio website. I think I should also mention this somewhere during my journey in React that I hope to eventually be able to make and deploy my own portfolio website that showcases all the work I have done through my learnings. And for now, these will all be here in GitHub anyways to showcase what I have been working on :)
