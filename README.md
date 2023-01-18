@@ -18,3 +18,7 @@ Random tidbit but I think for all of these GitHub pages I am making, I would pro
 
 05/05/22
 So I realised this format of journal could be a good idea to use for UOW students for their own UOW journey / checklist
+
+
+18/01/23
+Still need to work on some things - especially own portfolio website. This is just a reminder for myself
