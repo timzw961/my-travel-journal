@@ -22,3 +22,4 @@ So I realised this format of journal could be a good idea to use for UOW student
 
 18/01/23
 Still need to work on some things - especially own portfolio website. This is just a reminder for myself
+Also double checked all the links are working to the google map site. 
